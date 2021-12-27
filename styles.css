@@ -1,0 +1,11 @@
+h1,
+h4 {
+    text-align: center;
+}
+* {
+    background-color: rgb(92, 233, 127);
+}
+li {
+    font-family: 'playfair display', 'open sans light', sans-serif;
+    font-weight: 500;
+}
